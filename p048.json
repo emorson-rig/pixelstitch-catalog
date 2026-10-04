@@ -1,0 +1,141 @@
+{
+ "format": 1,
+ "id": "p048",
+ "title": "게임캐릭터 여자",
+ "category": "character",
+ "versions": [
+  {
+   "id": "p048-v1",
+   "width": 50,
+   "height": 64,
+   "difficulty": "four",
+   "palette": [
+    [
+     4278190080,
+     "DMC 310"
+    ],
+    [
+     4294769656,
+     "DMC White"
+    ],
+    [
+     4294953024,
+     "DMC 725"
+    ],
+    [
+     4294831444,
+     "DMC 307"
+    ],
+    [
+     4280160520,
+     "DMC 3371"
+    ],
+    [
+     4292600553,
+     "DMC 3753"
+    ],
+    [
+     4291727652,
+     "DMC 783"
+    ],
+    [
+     4281689739,
+     "DMC 312"
+    ],
+    [
+     4294956544,
+     "DMC 444"
+    ],
+    [
+     4281736974,
+     "DMC 938"
+    ],
+    [
+     4279453565,
+     "DMC 797"
+    ],
+    [
+     4294959872,
+     "DMC 973"
+    ],
+    [
+     4290232285,
+     "DMC 341"
+    ],
+    [
+     4291665207,
+     "DMC 3852"
+    ],
+    [
+     4294955957,
+     "DMC 3856"
+    ],
+    [
+     4284823833,
+     "DMC 801"
+    ],
+    [
+     4280630131,
+     "DMC 336"
+    ],
+    [
+     4286203167,
+     "DMC 433"
+    ],
+    [
+     4291863870,
+     "DMC 729"
+    ],
+    [
+     4282984979,
+     "DMC 898"
+    ],
+    [
+     4294420343,
+     "DMC 402"
+    ],
+    [
+     4279969875,
+     "DMC 939"
+    ],
+    [
+     4289623840,
+     "DMC 782"
+    ],
+    [
+     4290825438,
+     "DMC 800"
+    ],
+    [
+     4287713042,
+     "DMC 975"
+    ],
+    [
+     4294963631,
+     "DMC 727"
+    ],
+    [
+     4288834848,
+     "DMC 781"
+    ],
+    [
+     4294948117,
+     "DMC 972"
+    ],
+    [
+     4288917201,
+     "DMC 156"
+    ],
+    [
+     4278641638,
+     "DMC 3846"
+    ],
+    [
+     4284125112,
+     "DMC 322"
+    ]
+   ],
+   "cells": "/////////////////////////wAAAAAAAAD//////////////////////////////////////////////////////wAAAgEBAQEBDAAA/////////////////////////////////////////////////wAABQUBAQEBAQEBBQUAAP////////////////////////////////////////////8AAQEBAQEBAQEBAQEBBQUFBAD/////////////////////////////////////////AAUBAgICAgEBAQEBAQEBBQUFBQD///////////////////////////////////////8AAgIKCgoCAgEBAQEBAQEBBQUFDAD/////////////////////////////////////AAICCgcHBwoCAgIBAQEBAQEBBQUFDAD//////////////////////////wAA/////wACAgoHBwcHBwoQAgIBAQEBAQEFBQUFDAD///////////////////////8EGQ0A////AAIKBwEBAQEHBwcQAgIBAQEBAQEJCQUFBQD//////////////////////wgIBgYA/wAbEAgIBAQAAAgCBwcKAgEBAQEBCRkICQEBBQD/////////////////////ABoRAP//ABsIAAAIAxoaAAACBwoCAgEBAQEJAwgTAQEBBP////////////////////8ACAYE/wAbCAAEFgMDAwYGAgACCgoCAgETEwMDAhEPEwEMAP////////////////8EBAgIBgsAABsQBBoDAwsDAwYLAwACCgoCARMCAgIICAIPAQwE////////////////BAMIGB0VFgMJAAAICBkDCwsLAwsDBgACCgICExMTAgITDxMBDAUE/////////////wADEhgdAR0VFgMACQMGGRkDBgMLCwMDBgQCCgIBAQkDAhMBAQEMBRwA////////////AAIaHgEdHQcEGwQDAwYDGRkGBgsLAwsDGgQKAgIBCQMCEwEBAQwFAQT/////////////AAIKHh0HEBsAExkDFgMZGQIJDQMDBgsDEQAQAgEJAwITAQEFDAwBAQD///////////8AAgkHHQoVGwQZAwMJFgsLAhQJEgMDDQMDFgACAgkDAhMBAQUMBQUBAQD/AAAA////////BBIVEhMEAgMDEhYJDQICFg4UBg8DAxILAgkJCAIFBQEBBQUcBQUBAQEBAQIKAP//////AAgWABYLDQsDEgQJAggWBAAEBBIDDQ0LAw8ACAEBAQEBBRwcBQUBAQECAgcA/////wD/BAQRAAsNBgsSBBkJCBYOBBUEAAsDDQ0LAwkAAgEBAQEFBQAMBQUBAQIKBwD//////wAZAgQACBIECwsEFA4aAg4VBwEABAsLCxISFgACAgEBAQUFAAwMBQUCAgcE//////8AAw0WDQAWCAAWAgYEDg4YDhUKARQEEQsLCBgNCQQCAgEBAQUAHAUCAgoKBwD///////8ECw0J/wQSAAQGBgAODg4OEAcBDgkDDxISDQkFAAACAgEBBQUAGwIKCgcA//////////8AFgn//wAGAAAGAA4ODg4HBwEOCQMLCQ0SCQwFAQACAgEBBQAbCgcCAAD//////////wAGCf///wD/AAYJFA4ODg4ODhQJGQsJCQkJCQUBAQACAgEBBQAQCgIA////////////AAMGAP////8ACAYJFA4ODg4UCQkZAwYJCQYJBQEBAQACAgUFABAQAP//////////////AA8E////AAsIBg0JCQQECQkEBAMDDQkGBgkFBQEBAQACAgICABAA//////////////8ACA8AAP8ACwYGDQAFAAYEAgIABgsDDQQGBgkFBQEBBQQAAgICAP//////////////AA8ZAhIA//8AAg0AFwECBAMCABIECwsLAwQGCQUFAQEBBQAAAAD///////////////8ACAYRAP///wAIABcBAQkIEQADCRcECxIDAwQWFgICBhgYDQ0LCwAA//////////////8AEwMJAP8ACwABAQIJAR0VCAkBAQEACQ0DAwQPDw8GCwMYBgMDAwMA/////////////wATAhgA/wAACwgCBAIdHgoIBAEBAQUFGgMSBAkPDw8GAwMYBgMDAwME/////////////wAJBAAA/wAEABAEAgoeFQIAAgEFAQUaCBgDAA8RDwYDAwMNDQMDAwMA//////////8ADg4OFAAAAQEEFQQEAhUCCRAAAgEBFggRAAIZAA8RBgMGAwMGBgMDAwMA/////////wAODgYRAAMeAQwECBUEAgkJEBAAAgICBAQXBAsCABEGBgYDAwMRBgMNCwD/////////ABQODhQAAwgBDAwEFQIJBgMCBgQAFQAEFwEXAAAADxEGBgMDAwkPDQ0LCwD///////8AFBQYABcECAEFDAQCDwMJExMEBgAMAQEBAQEBBQUEDwYGBgMDAwkYBg0LAP////////8AFBQEFwQIFwwEBA8ECxsECAQEAgAQBwEBAQEBBQUEEQYGAwMSAwANBgsA//////////8AEQkAEAgcDAQEAhUVBAQGBAQCAAMDBwoIAQEBBQQTEQYDAw0DAAANDQD//////////wAIEQAKCBwEBAIVFQcHEAIGEAQEBAMDAwoCAQEBBQAPBgYDDQ0A/wAP////////////AAMRAAoIHAQFAAIHBwcHCggADg4OBAgICAoCAQEFBA8GBgsYDQD/AP////////////8ADwYACAgEHAIEAgcHBwcKCwAUDg4UBA8LCgoCBQUFAAYGBhgGAP////////////////8AAxMGABcIAAICBwgHBwoIBBQOFBQEBAsLCgoCDgIABgYJGAD//////////////////wADDwAABQsAAgcHCAcHCgIPABQUABUVAAMKCgICAgANEQQaAP///////////////////w8WABcCABcCBwcDBwcKAgAbBAQKCgoEEggKAgINABEA/wD/////////////////////BBIaEREHAQIHHAMeHh4CAAICAhgKBwoACB4CBhEABP///////////////////////wQIBAIEDAEBCAcHAwcHAwIAAQUBCAIEBwoECAYEDAwE//////////////////////8EBQQbBBwXAQECBwcDBwcDAhABBQEBAQIEBwACBAwMDBwE/////////////////////wAFBQQcDAEBFwIHBwMHBwMCEAIBBQEBCAIEAgQMDAEMDBwA//////////////////8ABQUFAAwXAQEXAgIHBwcHAwIVAgEFAQEBCAIEEBABAQEXAhIA/////////////////wALBQUADQEBBQQCAgcHBwcDAgQCAgUFAQEIAgIQCgEBAQECAgD/////////////////AAICBgAIAQEFAAQDAgIHBwMCCgQCAgUBAQEIAhAKCgEDAgIA////////////////////AAAGBgAIAgUbAAAAAgIDAwIKBAICBQUBAQgCEAcKAQICAP///////////////////////wAGBgACAhsADAwAAAICAgoAAgIFBQEBAQIQCgoCAgD//////////////////////////wAGAAQABAASAgwcBBUKCgoEAgICAggCDRACAgIA/////////////////////////////wAA/wABARERFwwAAAAKCgAAAAAAABERAgICAP//////////////////////////////////AAgIAQYPFxIA/wAAEAABAQUMAAQaAAD/////////////////////////////////AAACAQEIAQYSEgD///8AAAICAQUMAAD//////////////////////////////////wAXAQEBAQEIGgkSAP////8AAwMaGgUCAP//////////////////////////////////AAUBAQEBDAYAAAD/////AAUBAQEGGAIA//////////////////////////////////8AGggLCBYRAP///////wAFAQEBAQUJGwD///////////////////////////////////8AAAAAAAD/////////AAIIAQEFDAAAAP//////////////////////////////////////////////////////AAAAAAAA//////////////////////8="
+  }
+ ]
+}
