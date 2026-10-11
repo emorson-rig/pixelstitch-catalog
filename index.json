@@ -122,11 +122,12 @@
       "title": "Final Fantasy V",
       "sets": [
         "p061",
-        "p062"
+        "p062",
+        "p063"
       ]
     }
   ],
-  "publishedAt": "2026-10-11T12:58:38.271092Z",
+  "publishedAt": "2026-10-11T12:59:22.290173Z",
   "fingerprints": {
     "p001": "1014d1f615fed810",
     "p002": "425ce9a9cd3e790b",
