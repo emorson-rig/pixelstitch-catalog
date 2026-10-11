@@ -8,170 +8,190 @@
    "id": "p041-v1",
    "width": 48,
    "height": 64,
-   "difficulty": "three",
+   "difficulty": "four",
    "palette": [
     [
-     4280160520,
+     4279831047,
      "DMC 3371"
     ],
     [
-     4279969875,
-     "DMC 939"
-    ],
-    [
-     4282795363,
-     "DMC 791"
-    ],
-    [
-     4279453565,
-     "DMC 797"
-    ],
-    [
-     4280365155,
+     4278913323,
      "DMC 823"
     ],
     [
-     4280630131,
-     "DMC 336"
+     4283649404,
+     "DMC 31"
     ],
     [
-     4294961043,
-     "DMC 744"
+     4281607739,
+     "DMC 29"
     ],
     [
-     4294825813,
-     "DMC 726"
+     4281088137,
+     "DMC 792"
     ],
     [
-     4294955957,
-     "DMC 3856"
+     4281808224,
+     "DMC 32"
     ],
     [
-     4284241016,
-     "DMC 333"
-    ],
-    [
-     4294953024,
-     "DMC 725"
-    ],
-    [
-     4286087332,
-     "DMC 161"
-    ],
-    [
-     4281689739,
-     "DMC 312"
-    ],
-    [
-     4286016408,
+     4282927778,
      "DMC 3746"
     ],
     [
-     4294948117,
-     "DMC 972"
+     4294431313,
+     "DMC 726"
     ],
     [
-     4294637296,
-     "DMC 3866"
+     4279332046,
+     "DMC 995"
     ],
     [
-     4284508044,
-     "DMC 3807"
+     4279970419,
+     "DMC 797"
     ],
     [
-     4294416239,
-     "DMC 722"
+     4279641664,
+     "DMC 3750"
     ],
     [
-     4294088518,
-     "DMC 3853"
+     4294368189,
+     "DMC 951"
     ],
     [
-     4279544528,
-     "DMC 3843"
-    ],
-    [
-     4291787065,
-     "DMC 3776"
-    ],
-    [
-     4285015322,
-     "DMC 3857"
-    ],
-    [
-     4282876325,
-     "DMC 825"
-    ],
-    [
-     4288175667,
-     "DMC 434"
-    ],
-    [
-     4294420343,
-     "DMC 402"
-    ],
-    [
-     4294950743,
-     "DMC 742"
-    ],
-    [
-     4288188854,
-     "DMC 155"
-    ],
-    [
-     4289773786,
-     "DMC 3840"
-    ],
-    [
-     4294769656,
-     "DMC White"
-    ],
-    [
-     4278190080,
-     "DMC 310"
-    ],
-    [
-     4285424988,
-     "DMC 645"
-    ],
-    [
-     4283191918,
-     "DMC 158"
-    ],
-    [
-     4294080578,
-     "DMC 721"
-    ],
-    [
-     4294413075,
-     "DMC 970"
-    ],
-    [
-     4292072406,
-     "DMC 415"
-    ],
-    [
-     4284125112,
-     "DMC 322"
-    ],
-    [
-     4288917201,
+     4286023875,
      "DMC 156"
     ],
     [
-     4294819222,
-     "DMC 3825"
+     4294635653,
+     "DMC 727"
     ],
     [
-     4278641638,
-     "DMC 3846"
+     4285951389,
+     "DMC 30"
     ],
     [
-     4281736974,
-     "DMC 938"
+     4294489937,
+     "DMC 743"
+    ],
+    [
+     4294085206,
+     "DMC 3854"
+    ],
+    [
+     4278649113,
+     "DMC 939"
+    ],
+    [
+     4294177778,
+     "DMC 3865"
+    ],
+    [
+     4294498170,
+     "DMC 744"
+    ],
+    [
+     4279638108,
+     "DMC 791"
+    ],
+    [
+     4283919260,
+     "DMC 793"
+    ],
+    [
+     4294288196,
+     "DMC 725"
+    ],
+    [
+     4294568615,
+     "DMC 745"
+    ],
+    [
+     4282623980,
+     "DMC 996"
+    ],
+    [
+     4279114520,
+     "DMC 500"
+    ],
+    [
+     4280296806,
+     "DMC 158"
+    ],
+    [
+     4293575511,
+     "DMC 18"
+    ],
+    [
+     4290559697,
+     "DMC 159"
+    ],
+    [
+     4294096007,
+     "DMC 3856"
+    ],
+    [
+     4293893177,
+     "DMC 728"
+    ],
+    [
+     4283576365,
+     "DMC 779"
+    ],
+    [
+     4292447030,
+     "DMC 3820"
+    ],
+    [
+     4294835709,
+     "DMC B5200"
+    ],
+    [
+     4288568366,
+     "DMC 680"
+    ],
+    [
+     4279860439,
+     "DMC 3843"
+    ],
+    [
+     4291258399,
+     "DMC 3852"
+    ],
+    [
+     4286990377,
+     "DMC 420"
+    ],
+    [
+     4285032041,
+     "DMC 04"
+    ],
+    [
+     4292467160,
+     "DMC 01"
+    ],
+    [
+     4288263642,
+     "DMC 157"
+    ],
+    [
+     4293696120,
+     "DMC 3771"
+    ],
+    [
+     4287928698,
+     "DMC 523"
+    ],
+    [
+     4278387459,
+     "DMC 310"
+    ],
+    [
+     4279705675,
+     "DMC 336"
     ]
    ],
-   "cells": "/////////////////wAAAAAAG///////////////////////////////////////////////////////ABACAQD///////////////////////////////////////////////////////8ADQIEAP///////////////////////////////////////////////////////wANDQIED////wAAAAAAAAD/////////////////////////////////////AP///wANAgIA//8AAAICAgIBAP////////////////////////////////////8AAP//AA0JAgEAAAEfCQkJCQEBAgAAAP////////////////////////////////8AAgD/AAkCAgAABAIBAQQECQkfHwICAQAA//////////////////////////////8EAAIAAAICAh8fAgAAAAEBCQkCAQEAAAABAP//////////////////////////////AAICAAICEA0LCwIEAQEAAQQBAQEAAAAAACL//////////////////////////wAdAAECAQECDQsLCwsCAgAAAAAAAAAAAP//AAD///////////////////////8iAAABAQEBAgIAAAICCwsaAgICAAABAQEBAQD///////////////////////////8ADQ0JAgELDQIEAAECAhAaCwICAgABBB8JAQEA/////////////////////////wANCQEBAQsLAg0EAgECEAICCwsLAgIAAQQJCQEBAAD/////////////////////AAIAAAABCwsECwsBCQIBAgsCAQkNDQICAAEECQkBAQEA////////////////////AAAA/wALCwILCwIADQ0CAQ0JAQAAAQICAgABAQICAQEBAAAA////////////////AAn//wALAgELCQEAHw0NAgINCQEBAAAAAAAAAQEEBAQEAQAe////////////////AP//AA0LAgELAgEAAg0NAgINCQkCAAAAAAAAAAEEBAQEAB3///////////////////8PAA0CAQAQAgAgAAICAgACCQkQAgABBAIAAAAAAAAAHf////////////////////8ACQIBAgAfAQAYGB0CAgEAAQICAgEAAQICAQAAAAAA//////////////////////8AAgACAgACACAYCBgAAgABAQAABAIBAAABAgEAAAEAAP////////////////////8AAQACAgABACAYAAAAAAECAgEAAAAEAQAAAQEAAAAAAP////////////////////8AACQCAQABABEYGAAAIgACAgEYCAAEAQAAAQEBH/8AAAD///////////////////8A/x4EAP8AAQAlJQABIgACAgARCBgAAQAAAAEBAP///////////////////////////x4AAP8AAAAICAQFHCACAgAREQgAAAAAAAABAP////////////////////////////8AAP//AAAICCMjHAgCAhERCBEAAAAAHv8AIv////////////////////////////8PAP//AAAICBsTCAgEHhEREQAAAAAAAP//////////////////////////////////Av///wAICAgICAglJRERAAAAAAAUAP////////////////////////////////////////8ACAgICCUlAAAAAAAHGRQEAP///////////////////////////////////////wAVAAAAAAAXIAAGBgcSAwQEAP//////////////////////////////////////AAcKBQQBAAAgIAAGDAMDBAAABQD//////////////////////////////////////wAHCgEAAwMEAAAOAwMAAAkJCQUA////////////////////////////////////AAADDgABAwMABgoAAwABGxsbEAUFAP///////////////////////////////wAACSQAEh0DAwEGFgMZAAUQGxsQBgoKFAD/////////////////////////////ABIHBhALAwAAAB0aJiYOAAIQEAYGBgoSFAD///////////////////////////8AAAAAHgYZEiQaEAQKAwMOAA4OBgYAAAABAP///////////////////////////wAXCAgYABkZEhoQAxIAChIAABIOBwAABAABBAD//////////////////////////wAICBEIAAAAAQYKDgAEAAAUBAAAAQMDBQQABAQA////////////////////////AAgICAgRAAQAAwEAAQMDBQoZBQEABAMMAwUABAUEAP////////////////////8AAAgIESAADgEAAAYGGQAAAAAAAAAAAwwjDAMFAAUFBQD///////////////////8AAQgIFyAAGQEAAAYGBgAAAAAAAAAAAwwjDAMFAAUFAwUAAP////////////////8AFgAgIAABBwQAFQcHEgAXHhUVAAADDAYGBwoFBQADAwUDAP////////////////8ADBUBAAEKFwEAABIKGQAAAAAAAAUkBgYnAAcKBQAMAwwDAwAAD///////////////AA4AAQAKFQEAFAAAAAQXAAEEAAcHAAEMAQAKEgQBAyMjAwMDAAAd////////////AAcKCgoVAQAAEgUFBQQXABAJABcAAwMjDAUADhUAAAMTEwwDAwMDAAD//////////wAKChUBAAkADgMDAwUOACQkBQAICAgMDAMAAQ4AAAUMExMWDAMDAwUAHf////////8AAAAAHwAOAwMDAwMHACIiCwAREQgIFQUAAQ4AAAEDDBMTEyMjDAMFAP////////8PDwADCwAHAwMHAwMHAA8PGw0AGBgRAAAEARIVAAEEDBYTEwYGBwoDBQD/////////GgADGgAHAwMHAwMHAA8PGxAAGBgRAAACBBIAAAEEBBYTJAYGBwoKBQAi////////AAMaGgAGAwYHBwMGAA8cDxsJAAAAAQAXEhIAAAQEBRYWBgYGBgcKEgUA//////8ADAwiDQAGAwMHAwMGAA8cHA8aAAMDBQEAEgAXBAQFBAMHBwAAAAAAGSEA/////wAWFg8PAAAGAwMDAwMHABsbHBwbCQwWAwMBAAAUBQUDAwUDBwAAAP8AAA4A/////wAWDw8AAQAGBgMDAwMHABAfHBwPGgATFgMDBAAUFAUDAwMFGQAA////AA4A////AAcWDw8AAQAHBwYHAwMHABAQHBwPGgATFgwFBAEAFBQDAwMFDgD//////wD/////AAcHBx4BAQEAAQYGBwMKAAAAGhwPJAkAExMMBQUVACEhBQUFDgD//////////////x0ABwcKFBUAAAAAAAcKAAAAAA0PJAkAExMWCgoOAAAhIQ4OAP//////////////////HQAAAAAABwohFwAAAAAAAAAAAAAABgYHBwAAAAAAIQ4OHf///////////////////////wAABgohFxUAAAAAACEGChQABgcAAAALAAAAIQ4AC////////////////////////wAFAAAAAAAP////AAAAAAAAAAAAAP////8AAAAA//////////////////////8AAAMDBQQEAQEA////HQAAAQEBAAD//////////////////////////////////wAWBgYDAwUEAQAA/////wAEAwEBAQD/////////////////////////////////AAwGBgYOFxcAFRUA////IgAMDAwFBQH/////////////////////////////////AAQUFBcAAAAAAAAA////AAMGBgcZFAUAHv//////////////////////////////AAAAAAAAAAAAAAAA////AAwGBgcZFBcAHv//////////////////////////////////////////////////AAAAAAAAAAAAHv//////////////////////"
+   "cells": "/////////////////wAAAAAAHP//////////////////////////////////////////////////////ABUCAwD///////////////////////////////////////////////////////8ADgUFAf///////////////////////////////////////////////////////wAODgUFEv///wAAAAAAAQH/////////////////////////////////////AP///wAOAgUB//8AAAICAgMDAP////////////////////////////////////8AAf//AQ4CBQUAAAMCAgICAgMDAgAAAP////////////////////////////////8AAgH/AQICAhkABQUDAwUFAgICAgIDAwAA//////////////////////////////8DAQIAAAICAgICBQEBAAoDBQIFAwMKCgoKAf//////////////////////////////AQICEQUCAg4ODgIFCgoKAwUDAwoKAQEBASf//////////////////////////wAAAAMCAwMFDgwMDBUCBQEAABkZGQEAAP//AAH///////////////////////8nAAADAwMDAgIZGQICDAwMAgICABkDAwMDCgD///////////////////////////8BDg4CAgMMDgIFAAoCAhUMDAICBQADAwICAwMA/////////////////////////wEOAgMDAwwVBQ4FBQoCFQIFDAwMAgUAAwMCAgMDAAD/////////////////////AQIBAAADDAwFDBUFAgIDAg4FBQIODgIFAQMDAgIDAwMA////////////////////AQED/wAMDAUVDAMBAg4CAw4CAwEAAwUCBQADAwICAwoKAAAA////////////////ASb//wEMAgMMAgMBAg4OBQIOAgMDAQEBAAABCgMFBQUFAwAm////////////////Af//EQ4MBQMMAgMBAg4MAgUOAgUFAAEBAAABAQoFBQUFACv///////////////////8SAA4FAwECAwEQAQICAgEFAgIVBQADBQUKAQAAAAAAK/////////////////////8AAgIDAgAFBQEpKRECAgMBCgICBQMACgUFAwEBARkA//////////////////////8AAhEFAgAFAxApCxYRAgEDCgABBQUKAAAKBQMAGQoKAP////////////////////8AAwAFBQADABAdAAAAAAMFBQoAAQAFCgAACgMBAAAKCv////////////////////8AACgFBQADABAdHQEBJwACAgodCwEFCgABCgMKJv8KAAD///////////////////8A/yYFAf8ACgAdHQEBJwACAgEQHR0ACgoAAQoKAP///////////////////////////yYKAf8AAAALCwkJIRACBQEQEAsAAQEBAQAKAP////////////////////////////8BAf//AQALCyMjIQsCBRAQCykAAAEBJv8AJ/////////////////////////////8SAf//AQALCxwYCwsFJhAQEAAAAQABEf//////////////////////////////////H////wELCwsLCwsdHRAQAAEAAAAkEf////////////////////////////////////////8BCwsLCx0dAwAAAQAHDyAJEf///////////////////////////////////////wEfAQEAAAElEAEXFwcgBAkJAf//////////////////////////////////////AQcHCQkUAQAQEAENCAYECQEBBQH//////////////////////////////////////wAHBxQBBgQEAQEPBgQBAQYGBgQB////////////////////////////////////AAAEDxEBBgQBFw8BBAEKHBwcFQYEAf///////////////////////////////wEBBigAHhEGBgEXCAgPAQQCHBwVDQcWJAH/////////////////////////////ABYHDQYMAgEBAQEqJygPAAIVFRcXExYWJAD///////////////////////////8AAAAAJg0bHhwMFQkHCAYWAA8bExcAAAAaAP///////////////////////////wAiCwsWABsbHgwCAh4BGxYBAR4bGwABBAAaGgH//////////////////////////wALCykLAAEBFAcHFgEJAQEkCQEBFAQEBBoACQkR////////////////////////AAsLCx0QABoBBhQBFAYGCRsbCRoBCQYIBgQBCQkJAP////////////////////8BAQsLEBAAFhoAARsXBxkBAQABAQEBBggjCAYEEQQEBAH///////////////////8BAQsdJRAADxoBAAcHBxkAAAAAAAEBBggjCAYEAQQEBAQBAf////////////////8BIwAQEAAUBwkBJQcHFh8iJR8fAwEGCBcXBwcECQAGBgQEAf////////////////8BCB8UARQHIhQBAR4HBwAAAAAAAQQqFxcZAAcHCREICAgEBBEBEv//////////////AQ8BAQEHHxQAJAEAAAkiAAMFAQcHERkIFBEHHgkJCSMjBAQEAQEB////////////AQcHGxsfCQAAHgQEBAkiARUFASIDBAYICAQBDyUAAAYYGAgGBAQEAQH//////////wEbGx8aAAIADwYGBgQPASgoBQELCwsCCAQBAQ8AAAYIGBgICAgEBAQBAf////////8BAAAAAgEPBgYGBgYHAScnDAEpKQsLJQkBFA8AACwGCBgYGCMjCAQEAf////////8SEgEGDAEHBgYTBgYTARISHBUBFikQAAAJFBYfABQJCAgYGA0TEwcEBAH/////////KgEEDAATBgYTBgYNABISHBUrFhYQAAAFCR4fERQJCAgYKA0NEwcHBAEn////////AQgMDAANBg0TBwYNABIhEhwCAAARFAElHh4RERoaCQgIDQ0NDQcHFgQA//////8BCAgcFQENBgYTBgYNABIhIRIMAAgEBBoBHgAkGgkJCQYHBxEAAQEBDyAA/////wEICBISAQENBgYGBgYTABwcISEcAggIBgQaAAAkHwQEBAQGBwABAf8BAQ8A/////wEIEhIZFAENEwYGBgYHABUCISESDAEYCAgECQEgIAQEBAQEDwEB////ARsB////AAcIEhIAFAETEw0NBgYHARUCISESDAEYCAgECQEBICAEBAQEDwH//////wH/////ABMNDSIUFCwBFA0NBwYHAAEBDCESKAIAGCMIBAQlASAgBAQEDwH//////////////wAADQcHJCUAAQAAAAcHAAEBAQ4SKAIAGBgjBwcWAAEgIA8PAf//////////////////AAAAAAAAEwceIgABAQEBAAEBAAAADQ0TBxkAAQEAIA8PK////////////////////////wAABwceIh8AAQEBACANByQBDRMBAREOAQAAIA8RDv///////////////////////wAEAQEBAQAS////AAAAAQEAAAABA/////8AAAAA//////////////////////8AAAQGBAkaFAEA////AAABASwsAAH//////////////////////////////////wAIDRMGBAQJAQEB/////wAJBgYEAQH/////////////////////////////////AAgNDRMPIiUDJR8B////JwEICAgECQH/////////////////////////////////AAkqKiIAAAAAEREA////AQYXFxMPJAkBJv//////////////////////////////AAAAAAAAAAABAQAA////AAgXFxMPJCIAJv//////////////////////////////////////////////////AAAAAAAAAAAAJv//////////////////////"
   }
  ]
 }
