@@ -5,7 +5,76 @@
  "category": "character",
  "versions": [
   {
-   "id": "p066-v1",
+   "id": "p066-v3",
+   "width": 32,
+   "height": 48,
+   "difficulty": "two",
+   "palette": [
+    [
+     4280819992,
+     "DMC 3021"
+    ],
+    [
+     4288755741,
+     "DMC 301"
+    ],
+    [
+     4286065944,
+     "DMC 434"
+    ],
+    [
+     4294490223,
+     "DMC 19"
+    ],
+    [
+     4279860439,
+     "DMC 3843"
+    ],
+    [
+     4293557842,
+     "DMC 977"
+    ],
+    [
+     4288641132,
+     "DMC 841"
+    ],
+    [
+     4279332046,
+     "DMC 995"
+    ],
+    [
+     4294636234,
+     "DMC 3823"
+    ],
+    [
+     4283274550,
+     "DMC 702"
+    ],
+    [
+     4290144836,
+     "DMC 436"
+    ],
+    [
+     4286990377,
+     "DMC 420"
+    ],
+    [
+     4287869232,
+     "DMC 907"
+    ],
+    [
+     4294177778,
+     "DMC 3865"
+    ],
+    [
+     4281028500,
+     "DMC 798"
+    ]
+   ],
+   "cells": "/////wAAAAD//wAAAAAAAAAAAAAAAP//////////////////AAAAAP//AAAAAAAAAAAAAAAA////////////////AAAKCgEBAAAKCgoKAQECAgICAgIAAAAAAAD///////8AAAoKAQEAAAoKCgoBAQICAgICAgAAAAAAAP///////wAAAAAKCgEBAQEBAQEBAQEBAQEBAgICAgICAAD/////AAAAAAoKAQEBAQEBAQEBAQEBAQECAgICAgIAAP//AAACAgEBAgIAAAoKAQEBAQEBAgICAgEBAgIAAP////8AAAICAQECAgAACgoBAQEBAQECAgICAQECAgAA/////wAACgoBAQAAAAAKCgEBAAABAQEBAgICAgAAAgIAAP//AAAKCgEBAAAAAAoKAQEAAAEBAQECAgICAAACAgAA//8AAAoKAgIAAAMDAgIBAQICAAABAQEBAQEBAQICAAD//wAACgoCAgAAAwMCAgEBAgIAAAEBAQEBAQEBAgIAAP////8AAAEBAAADAwAAAgIBAQEBAAACAgICAgIAAP///////wAAAQEAAAMDAAACAgEBAQEAAAICAgICAgAA//////////8AAAAAAwMODg0NAAAAAAMDAAACAgAA/////////////wAAAAADAw4ODQ0AAAAAAwMAAAICAAD///////////////8AAAMDDg4NDQUFBQUDAwAAAgIAAP///////////////wAAAwMODg0NBQUFBQMDAAACAgAA////////////////AAADAwMDAwMFBQUFAAAAAAAAAAAAAP////////////8AAAMDAwMDAwUFBQUAAAAAAAAAAAAA/////////////wAAAwMDAwUFAAAEBAQEAgICAggIBgYAAP//////////AAADAwMDBQUAAAQEBAQCAgICCAgGBgAA////////AAAEBAAAAwMFBQAABAQEBAcHBgYICAgIBgYAAP////8AAAQEAAADAwUFAAAEBAQEBwcGBggICAgGBgAA//8AAAAABAQEBAAAAAAEBAQEBwcHBwAACAgICAYGAAD//wAAAAAEBAQEAAAAAAQEBAQHBwcHAAAICAgIBgYAAAAAAwMDAwAABAQHBwcHBAQEBAcHAwMDAwsLCAgGBgAAAAADAwMDAAAEBAcHBwcEBAQEBwcDAwMDCwsICAYGAAAAAAMDAwMFBQAADAwJCQkJBwcDAwMDAwMLCwYGBgYAAAAAAwMDAwUFAAAMDAkJCQkHBwMDAwMDAwsLBgYGBgAAAAAFBQUFBQUAAAQEBAQEBAAABQUDAwMDCwsGBgAA//8AAAUFBQUFBQAABAQEBAQEAAAFBQMDAwMLCwYGAAD/////AAAAAAAAAAAEBAQEBAQHBwAAAAAAAAAAAAD///////8AAAAAAAAAAAQEBAQEBAcHAAAAAAAAAAAAAP///////////////wAABAQEBAQEBAQHBwcHAAD/////////////////////AAAEBAQEBAQEBAcHBwcAAP///////////////////////wAAAAAICAYGBgYAAP//////////////////////////AAAAAAgIBgYGBgAA/////////////////////////////wAACAgICAYGAAD/////////////////////////////AAAICAgIBgYAAP////////////////////////////8AAAsLCwsLCwsLAAD//////////////////////////wAACwsLCwsLCwsAAP//////////////////////////AAAMDAkJCQkJCQAA//////////////////////////8AAAwMCQkJCQkJAAD///////////////////////8AAAwMCQkJCQsLCQkAAP///////////////////////wAADAwJCQkJCwsJCQAA//////////////////////////8AAAAAAAAAAAAAAAD//////////////////////////wAAAAAAAAAAAAAAAP//////////"
+  },
+  {
+   "id": "p066-v4",
    "width": 48,
    "height": 72,
    "difficulty": "three",
