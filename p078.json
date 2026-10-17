@@ -1,0 +1,177 @@
+{
+ "format": 1,
+ "id": "p078",
+ "title": "Final Fantasy VI - 1",
+ "category": "character",
+ "versions": [
+  {
+   "id": "p078-v1",
+   "width": 92,
+   "height": 75,
+   "difficulty": "five",
+   "palette": [
+    [
+     4279114520,
+     "DMC 500"
+    ],
+    [
+     4279641664,
+     "DMC 3750"
+    ],
+    [
+     4293981170,
+     "DMC 3756"
+    ],
+    [
+     4287585569,
+     "DMC 832"
+    ],
+    [
+     4281806635,
+     "DMC 844"
+    ],
+    [
+     4289702945,
+     "DMC 166"
+    ],
+    [
+     4283373631,
+     "DMC 3834"
+    ],
+    [
+     4287471823,
+     "DMC 341"
+    ],
+    [
+     4282466367,
+     "DMC 535"
+    ],
+    [
+     4289731620,
+     "DMC 22"
+    ],
+    [
+     4286204210,
+     "DMC 3862"
+    ],
+    [
+     4294636234,
+     "DMC 3823"
+    ],
+    [
+     4287654004,
+     "DMC 3861"
+    ],
+    [
+     4280841254,
+     "DMC 700"
+    ],
+    [
+     4279973222,
+     "DMC 312"
+    ],
+    [
+     4281617990,
+     "DMC 501"
+    ],
+    [
+     4289499608,
+     "DMC 210"
+    ],
+    [
+     4292528531,
+     "DMC 17"
+    ],
+    [
+     4285812249,
+     "DMC 831"
+    ],
+    [
+     4290688097,
+     "DMC 472"
+    ],
+    [
+     4294165868,
+     "DMC 3822"
+    ],
+    [
+     4290144836,
+     "DMC 436"
+    ],
+    [
+     4290221126,
+     "DMC 734"
+    ],
+    [
+     4283649404,
+     "DMC 31"
+    ],
+    [
+     4289573006,
+     "DMC 524"
+    ],
+    [
+     4286553706,
+     "DMC 368"
+    ],
+    [
+     4283262855,
+     "DMC 931"
+    ],
+    [
+     4294361220,
+     "DMC 3855"
+    ],
+    [
+     4291091551,
+     "DMC 16"
+    ],
+    [
+     4291721349,
+     "DMC 152"
+    ],
+    [
+     4284513212,
+     "DMC 3839"
+    ],
+    [
+     4285231553,
+     "DMC 340"
+    ],
+    [
+     4281228856,
+     "DMC 505"
+    ],
+    [
+     4286096852,
+     "DMC 3755"
+    ],
+    [
+     4294835709,
+     "DMC B5200"
+    ],
+    [
+     4286318869,
+     "DMC 3777"
+    ],
+    [
+     4287932575,
+     "DMC 927"
+    ],
+    [
+     4290803258,
+     "DMC 729"
+    ],
+    [
+     4291258399,
+     "DMC 3852"
+    ],
+    [
+     4294064745,
+     "DMC 893"
+    ]
+   ],
+   "cells": "/////wAAAAD/AAD///////////////8BAQEBAQEB////////////////AAD/AAAAAP//////////////AAAA/wD/AP//////////////////AAAAAAD/////AP///wAAExMSEhMSEgD/////////////AQgIAQEICAgB////////////AAASExITExMSAP//////////AAAKGBgAGAoYAAD//////////////wADAwkJCQAAAAAFAP//ABMSEgsLExMTAP////////////8BCAEICAgIAQgB/////////wATExISEwsSEhIA/////////wAYGAoKCxgLChgYCgD///////////8ACQUDAwkJAAUFBQkA/wASExITCxMTExMSAP///////////wEdHR0dHQgIAQH/////////ABMAEhISEhMTEwD//////////wAAGAoYCgoYGAsYGAD/////////AAMAAAUFAwkACQkJAP8AExMSJhITExIAABcXAP//////////ASIRER0IAQEIAf////////8AEwALEhsSEhISAP////////////8ACgoKFAoKGAoA//////////8ABQMDAAAFBQkAAAD//wATEgAbABMTEhchFyEA//////////8BIhEdHQEICAEB//////////8AAAsSGyYSEwAcAP///////////wAUFAoUChgKGAD//////////wAFBQUFBQAAAAMABQD/ABISABsOABMSEgAAEgD//////////wEdAQEBEQEIAQMBAf////////8AJgAAJhISAAAAAP//////////ABYAABYKCgoA/////////////wAABAAAAwUFAwAABQD/ABIAGw4LEgsSExMTEgD/////////AREBIh0RAQEBAQgIAf///////wAbDgsmAAAAEhMXAP////////8AFAQLFgoUAAAAAAD/////////ABYEFAADBQMDAP8A////AAAbDgsSExISExMSEgD/////AQEBCBEdHQEBCAgIAQH/////////ABsOGwAhISEAAAASAP///////wAUBBQWChQAGBgKGAD//////wADAAAAAAUFBQUFAP//////ABsbJhITEgASExMSAP///wEeCAEICB0BAQgkHh4IAf///////wAAGxsmACEXAA0NDQAA////////ABQUFhYAAAAACgoA////////AAMFBQUFBQMDAAAA/////wAAABsmEhMSAAASEhMA/////wEeCAERAR4BHggBAQH///////8AHA0AGwAAIQANHBwcDQD//////wADABYWAAADBQUDAAD///////8AAwUFBQMDAAAJCQUA//8ACyEAAA0NEgAhISEAEwD//////wEBHgEeHgEeAR0dHQH//////wAADRwAHBcXABwAAAAA//////8AAwUAAAAFAwMFBQUDAP///////wAAAwMDAwAABQkJCQkA//8AAA0cHA0AIQsLCwsSAP////8BAQgkCB4kHgEBHREiHQH/////ABcAHAAcFxcXABchFwD//////wADBQUFBQMAAAAAAAAA//////8ACQAAAAAABQADBQkJCQD///8AHBwcHAALJiYAABIA////AR0BCB4ICB4eCAgBHREdAf///wAmAAAXAAAcHBcXABchFwD///8AFAADAwMDABYWAAAWFgD//////wAJAAUNDQAAAAADBQUFAP//AAAAFxcXFwAAGyYAAP////8BEREBCAEBCAgIAQEBAwMB////ABsmAAAhFwAAAAAAFxcXAP///wAUFgAAABYUFhYA/wADAwD///8AFAAAAAUNAAUADQAAAAAA/wAbACYADSYmAAAXFwAA/////wEdHQEBAQMBAQEIAQEDAwH///8AJiYAAAAAHBcXAAAAHBwA/////wAA////AA0NDQD/ABQWAP///wAUFgAAAAUFAA0NABYJCQD/ABsmAAAmGyYAABsbAAD//////wEBAQEBAQgBCB4BHREdAf////8AAAD//wAAHBcXABsXFwD///////////8ADQ0AAAAAFhYA////ABYWAAANAAAFBQUAFAkJAP//AAAAFxcbACYAJhsAIQD//////////wEIHggBAQEdHR0B//////////8AFxcAHBwAGxsbAP//////////AA0NAA0WAAAAAP//////AAD/AAUABQAAAAAUFBYA/////wAhFwAAFxcAAAAhAP////////8BCAEBCAEIAQEBAf//////////AA0AIRcAAAAAAAAA////////AAAAFBYAABQJFgD//////////wAFDQAFCQkJCQAAAAD///8AFwshFwAXISEhAAsA/////wEBAQEIJAgBCAgBCAH///////8AAAAAHA0AABcNAA0AIQD//////wAWFgkJAAAAABYAAP//////////AAUNDQAFCQkJCQAFAP//AAshFyEXAAAAFwAACwD/////AQgeCAEeCAEBAQgB/////////wANHA0AHA0AAAANAAAcAP///////wAACRYA//8AFAD//////////wAFDQ0NAAUJCQkJAAAA////AAAhIQAA/wAhAP8A////////AQEIAQgB//8BHgH//////////wAADQANAP//ABwA/wD///////////8AFgD///8AAP///////////wAADQ0NAAUFCQUJCQD//////wAXAP///wAA/////////////wEBHgH//wEBAf////////////8AABwA//8AAAD///////////////////////////////////////8AAAAAAAAAAAAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAAAA/wAA////////////////////////////////////////////////////////////////AQEB/wEB/wEB/////////////wAAAP8AAAAAAP////////8AABkZCAgZGQgA/////////////////////////////////////////////////////////////wETExMDAxMDAwMB////////////AAsIJAgkJCQIAP//////ABkZCAgZGQsZGQ4A/////////////////////wD//////////////////////////////////////wEDExMDEwMTEwMB//////////8ACAgIJAskJCQIAP////8ACwAbCBkIGRkODgD///////////////////8AHQD///////////8AAAAAAAAAAAD///////////8BEwMDEwMDAxMDAf////////////8AFCUIJCQIJAgIAP///wAZAA4OGQAODg4OAAAA/////////wAA//8AAP8A////////////AAoYCgADCQkDAwAAAAD///////8BAyIRERUDAwMB/////////////wAUFAgkCwgIJCQIAP//AAgADg4ZAA4OCBkAGhoA////////AAcAAAIA////////////////AAoKCgAACQkJAAkFAP////////8BIhERFQMTAwEB////////////AAslJQgLJAgICAgIAP//AAAlAAAZABkIAAAADgD///////8AAAAnAgcA/////////////wAYChgYCgoACQAJCQUA/////////wEVAQEVAwMBAwMBAf////////8AJQAAJQgkJAskCAgA////ABsECwAAAAAA//8AAP//////AAcCAicCBwwA//////////8AGAoYGAoYGAAJAAkJBQD/////////AREOIhURAwEDExMDAf///////wAUDgsAAAAICAgkJAD/AAAAGwQbDhoaGgAAAP///////wAHAgICAgICAgwA/////////wAYAAsYCgsYAAkAAAUFAP////////8BEQ4RFREBAQEBAQH/////AAAAABQOJQADAwMAAAAIJP8AGg4bGyUADhoODg4OAP//////AAICAgICAgICBwD//////////wAAGAoAGBgKAAAJCQD//////////wERERUVARUVFQH///////8AAwMEFBQlAAMEBAMDAwAA//8ADgAbAA4OGg4lJQD///////8AAgICAgICAgICAP////////////8AFAQAChgKCgAJCQD/////////AQEVARUVEREiFQH///////8AAwQAFAAAAwQEBAMEAwD/ACUAFQAVDhoODiULJQD//////wACAg4ODgICAgIAAP///////////wAUBAsWCgAKAAkJCQD//////wEaGgEaGhERESIiFQH/////AAMEAB4AHgAEAwMEDw8A//8AAAAVCxUOGg4OJQsbGwD/////AAIODgICAgICBwAnAP//////////ABQECxYUAAoABQUFAP////8BAQcaGhoaGhUVEREVAf//////AAMAHh4eAAQEAwQPDw8AAAoAAAoLFQ4aGg4OABslAP///wAnAg4CHQICAgIMACcnAP////////8AFBQWCwAKABgAAAD/////ASIBAQcaGhoaGgEVFREVAf///wAUAAMAHgQABAMEBAQPDwAAFQoAABUVDg4ODg4AJSUA////ACcCAgICAgICBwwnHScA//////////8AFBYWAAAAAP////////8BEREBARoBAQEBGgEaGhoB////ABQlAAAEBAQAAwQABB4eAAAKCgAAAAoKCgAAAAAKCgD/////AAcCAgcCAgIMDCcdJwD///////////8ADQ0WFhYAAP///////wEVFQEBDRwcDQ0BAQEaGgH///8AJSUAAAADAwADBAAABB4A/wAAAP8AAA4ODg4AFRUKAP//////AAAMBwICAgcHACcnAP////////8AAA0NDQ0WFBYAAP///////wEB//8BARoHBxoBIhEVAf////8AAAMAAAAEBAADABQEBAD//////wAODhoOAAAVCgoA/////wAADAcCAgICAgIHACcA////////ABQAAA0NDQAJCQAJAP///////////wEHIiIiGgERERUB//////8AAwAABAQEAAMAJSUlAP////8AAA4aDgAOAAAAAP////8AAgAHAgICAgICAgIAAP////////8AFBYAAAUFAAAUFgAFAP////////8BByIiIgcaAQEBAf//////AAMAAAAEBAQAAAMAAAD//wAAAAAKAA4ADgoACgD///////8AAAACAgICAgAAAAD///////////8AAAALBQUAABQWAAD/////////AQEaIiIHGgENDQH///////8AAAAAHgQEAAQEAAMEBAD/AAoVCgAVCgAAAAoA/////////wACAgICAgcHBwwAAP///////////wAJCQUFAAAFAAD//////////wENDQEaBxoBAQ0B/////////wAPAw8AHgAAAAAPAAMEAP//AAAKAAoA//8AFQD//////////wACBwcHBwwMAAcHAP///////////wAACQAA/wAJAP///////////wENDQ0BAf8BHAH//////////wAADwAPAP//AAMAAAMA/////wAAFQD//wAAAP///////////wAAAAAAAAAAAAD///////////////8AAP///wD//////////////wENDQH//wEBAf////////////8AAAAA//8AAAD/AP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8GBv//BgYGBhAG////////////////////////////////////////////////////////////AAAAAAAA////AP//////////////////////////////////BgIGBgYQEBAQBv////////////8BAQH/AQEBAQH/////////////AAD/AAAA/////////////wAEBA8PBAQA/wAA/////////////////////////////////wYCBhACAhAQBgYGBv////////8BASAZICAZIAEQEAH//////////wAHBwwCAgwAAP////////8ABAQPHw8PBAQABAD//////////wAAAAAAAP////////////8GEBACAhAQAgICAhAQBv//////ASAZGSAZGSIZIAEQAQH///////8ABwACBwICAgIMAP///////wADAwQPDwQPAA8A//////////8AGAsACwoLAP///////////wYQAgIQAgICAhAQBgYG//////8BIiAgESAZGRkZIAEgIAH///////8ABwIAAgwCAgIMAAD///8ADwQEAwQDAAMDAP//////////AAAKCwsLCwsLAP///////////wYQAgICAgICAhACAhAG/////wEZAREVICIZIBkgARkgAf///////wACAAACAAIHAgIHDAD//wADBAQDAwAABAQAAP///////wALCwsLCgsLGAoLAP///////////wYCAgICEBACAhAGEBD/////ARkBEQEgGSIgICABGSAB/////////wAHBwwAAgwHAgwHBwD//wADAwAAAAQEBAAfAAD//////wAYCwsKGAoYCwAA////////////BgIGBgYCEBACAhAGBv//////AQERCAEgGSIgIAEZAf//////////AAcHAAACAAwHBwwAAP///wAADgAADwQAAA8fAwD//////wALFBQWChgYCwAAAP////////8GAiMMAgIQEBAQAhAG////////AREIIgEgIBkBICAB/////////wAMBwALAAcAAAAABwcA////AAAADw8EAAAAAAQDAP//////ABQWCgoWCgoAAAkFAP///////wYCIwICAgYQEBAQAgb///////8BEQgiFREBGQEgGQH/////////AAwHBwwABwAHBwcAAP////8ADx8PDwAEBAQEAAD///////8AFgsLCwoKGAAJCQkFAP//////BgICAgIGEAIQBgYQBv///////wEREREVFQEBAQEZGQH//////wAADAcHDAwABwcCBwcA/////wAADw8ABA8PDw8EAP///////wAUAAAAFhQAAAkJCQUA////////BgIMAgYGEAIQBhAG//////8BAQERERUBAQEBAQEBAf//////AAwADAwMBwwCAgICBwD///8ABA8AAA8PBA8fDw8PAP//////AAoECxYWFAAJCQkJBQD/////////BgwCAgwGEBAQBhD/////ARAfAQEVFRUBHxAQHwH///////8ADAcAAAcCAgcCAgIMDAD//wAPDwQPDw8EBA8PBAQA/////wALCwoKFgAACQUFBQUA/////////wYMAgICAgwGBhAQBv//////AR8jERERFQEQHwEfAf///////wAMBwcHAgICBwcCBwcHAP8AAA8fBA8fDwQEAB8fBAD/////AAsLCwoKAAAFAAAAAP////////8GDAICAgICAgYGBhAG////////ASMjIyMjIxABFQH//////////wAMBwcHAgIHAAcCAgIAAB8PAAQEBAQEBAAABAQEAP///wALGAoYCwsAAAAJCQD///////////8GBgwCDAYMAgYGEAb//////wEBAQEQEB8BARERAf////////8AAAAMDAcHDAwABwICAgAAHx8PAAMDAAAAAA8fHwQA/////wAKAAoYAA0ACQkJCQD///////8GBgwGBgICDAYMAgYGEP////8BEQEBAQEjIyMBASMjAf//////AAIHDAACAgICBwwADAcMAAAPHw8AAAAEAA8ADx8fDwD///8AFAAAAAANDQ0AAAAUFAD/////BgIMBgYMAgICBgYMAgYG/////wERFQEBFRERIwEBEREB//////8ABwcMAAwMBwwMDAAHAgcA/wAAAP8AHw8EAAAADw8AAP///wAUFgAAAAMDAwMAABQWAP//////Bgb/BgICAgYGBgYG/////////wEBARUiERUBAQEREQH//////wAMDAD/AAACAgIHAAICBwD/////AAAPDwQABAQAAAMA/////wAAIgAFCwsFAwAFAAAJAP///////wYMAgwGAgIG/////////////wEFIyMBARUjAQEB/////////wAA//8AAgIHBwwADAcMAP8AAAAAAwMPAAADBAQAAP////////8AAAULBQUABQMNAAkA////////BgICBgYGAgIG//////////8BASMFBQEBFSMjIwH///////////8AAAACAgcMAAwAAAD//wAEHx8EAwQAAAAEHwD/////////AA0NAwMFAwAFAwAACQD//////wYMAgb///8GAgb/////////AQUFIyMjAf8BASMBAf//////////AAMDAwcHAAAMBwMA/////wAABAQfAP///wAfAP//////////AAANDQAA/wANAP8AAP//////BgIG/////wYMBv//////////AQEBIwH///8BBQH/////////////AAADAwD//wAAAwD///////8AAAQA////AAD//////////////wAAAP///wAA//8A//////8GBv///////wb//////////////wEFAQH///8B/////////////////wADAP///wAA////"
+  }
+ ]
+}
