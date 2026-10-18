@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p006",
  "title": "알파벳 F",
+ "titles": {
+  "en": "Alphabet F"
+ },
  "category": "pattern",
  "versions": [
   {

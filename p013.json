@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p013",
  "title": "알파벳 N",
+ "titles": {
+  "en": "Alphabet N"
+ },
  "category": "pattern",
  "versions": [
   {

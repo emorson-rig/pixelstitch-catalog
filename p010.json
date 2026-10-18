@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p010",
  "title": "알파벳 K",
+ "titles": {
+  "en": "Alphabet K"
+ },
  "category": "pattern",
  "versions": [
   {

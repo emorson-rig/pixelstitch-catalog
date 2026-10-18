@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p081",
  "title": "Xenoblade 2 - 히카리",
+ "titles": {
+  "en": "Xenoblade 2 - Mythra"
+ },
  "category": "character",
  "versions": [
   {

@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p056",
  "title": "햇살 가득한 과일 바구니",
+ "titles": {
+  "en": "Sunlit Fruit Basket"
+ },
  "category": "object",
  "versions": [
   {

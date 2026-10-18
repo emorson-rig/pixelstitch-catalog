@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p002",
  "title": "알파벳 B",
+ "titles": {
+  "en": "Alphabet B"
+ },
  "category": "pattern",
  "versions": [
   {

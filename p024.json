@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p024",
  "title": "알파벳 Y",
+ "titles": {
+  "en": "Alphabet Y"
+ },
  "category": "pattern",
  "versions": [
   {

@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p022",
  "title": "알파벳 W",
+ "titles": {
+  "en": "Alphabet W"
+ },
  "category": "pattern",
  "versions": [
   {

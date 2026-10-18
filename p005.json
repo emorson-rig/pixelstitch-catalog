@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p005",
  "title": "알파벳 E",
+ "titles": {
+  "en": "Alphabet E"
+ },
  "category": "pattern",
  "versions": [
   {

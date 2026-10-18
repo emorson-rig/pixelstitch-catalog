@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p003",
  "title": "알파벳 C",
+ "titles": {
+  "en": "Alphabet C"
+ },
  "category": "pattern",
  "versions": [
   {

@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p008",
  "title": "알파벳 H",
+ "titles": {
+  "en": "Alphabet H"
+ },
  "category": "pattern",
  "versions": [
   {

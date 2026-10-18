@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p020",
  "title": "알파벳 U",
+ "titles": {
+  "en": "Alphabet U"
+ },
  "category": "pattern",
  "versions": [
   {

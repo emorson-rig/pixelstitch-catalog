@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p041",
  "title": "게임 캐릭터 남자",
+ "titles": {
+  "en": "Game Character (Male)"
+ },
  "category": "character",
  "versions": [
   {

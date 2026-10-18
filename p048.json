@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p048",
  "title": "게임캐릭터 여자",
+ "titles": {
+  "en": "Game Character (Female)"
+ },
  "category": "character",
  "versions": [
   {

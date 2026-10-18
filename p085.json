@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p085",
  "title": "정물화 - 01",
+ "titles": {
+  "en": "Still Life - 01"
+ },
  "category": "object",
  "versions": [
   {

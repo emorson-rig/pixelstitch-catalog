@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p012",
  "title": "알파벳 M",
+ "titles": {
+  "en": "Alphabet M"
+ },
  "category": "pattern",
  "versions": [
   {

@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p080",
  "title": "Xenoblade 2 - 호무라",
+ "titles": {
+  "en": "Xenoblade 2 - Pyra"
+ },
  "category": "character",
  "versions": [
   {

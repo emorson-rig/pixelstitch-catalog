@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p007",
  "title": "알파벳 G",
+ "titles": {
+  "en": "Alphabet G"
+ },
  "category": "pattern",
  "versions": [
   {

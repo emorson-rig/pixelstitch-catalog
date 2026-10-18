@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p014",
  "title": "알파벳 O",
+ "titles": {
+  "en": "Alphabet O"
+ },
  "category": "pattern",
  "versions": [
   {

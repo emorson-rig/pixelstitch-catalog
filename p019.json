@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p019",
  "title": "알파벳 T",
+ "titles": {
+  "en": "Alphabet T"
+ },
  "category": "pattern",
  "versions": [
   {

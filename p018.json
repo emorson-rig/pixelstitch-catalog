@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p018",
  "title": "알파벳 S",
+ "titles": {
+  "en": "Alphabet S"
+ },
  "category": "pattern",
  "versions": [
   {

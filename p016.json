@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p016",
  "title": "알파벳 Q",
+ "titles": {
+  "en": "Alphabet Q"
+ },
  "category": "pattern",
  "versions": [
   {

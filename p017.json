@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p017",
  "title": "알파벳 R",
+ "titles": {
+  "en": "Alphabet R"
+ },
  "category": "pattern",
  "versions": [
   {

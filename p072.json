@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p072",
  "title": "고양이와 강아지 - 01",
+ "titles": {
+  "en": "Cat and Puppy - 01"
+ },
  "category": "animal",
  "versions": [
   {

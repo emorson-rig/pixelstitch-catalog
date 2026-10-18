@@ -2,6 +2,9 @@
  "format": 1,
  "id": "p025",
  "title": "알파벳 Z",
+ "titles": {
+  "en": "Alphabet Z"
+ },
  "category": "pattern",
  "versions": [
   {
